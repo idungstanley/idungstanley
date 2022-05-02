@@ -19,6 +19,8 @@ const stanleySunday = {
   'I play badminton during my free time.']
 }
 ```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idungstanley)](https://github.com/idungstanley/github-readme-stats)
+
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
 <!--START_SECTION:waka-->
