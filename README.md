@@ -27,7 +27,7 @@ const stanleySunday = {
 <!--START_SECTION:waka-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idungstanley)](https://github.com/idungstanley/github-readme-stats)
 
-[![Roberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=idungstanley)](https://github.com/idungstanley/github-readme-stats)
+[![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stanley_idung)](https://github.com/idungstanley/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
