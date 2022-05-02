@@ -1,8 +1,8 @@
 <h2> Hi, I'm Stanley (Idung) Sunday! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sundaystanley56/)](https://www.linkedin.com/in/sundaystanley56/)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IdungStanley)](https://twitter.com/IdungStanley)
+[![Linkedin Badge](https://img.shields.io/badge/-Stanley%20Sunday-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sundaystanley56/)](https://www.linkedin.com/in/sundaystanley56/)
+[![Twitter Badge](https://img.shields.io/badge/-@idung_stanley_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IdungStanley)](https://twitter.com/IdungStanley)
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
