@@ -25,9 +25,9 @@ const stanleySunday = {
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
 <!--START_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbanos-mv)](https://github.com/rbanos-mv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idungstanley)](https://github.com/idungstanley/github-readme-stats)
 
-[![Roberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rbanos)](https://github.com/rbanos-mv/github-readme-stats)
+[![Roberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=idungstanley)](https://github.com/idungstanley/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
