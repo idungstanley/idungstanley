@@ -2,7 +2,7 @@
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Stanley%20Sunday-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sundaystanley56/)](https://www.linkedin.com/in/sundaystanley56/)
-[![Twitter Badge](https://img.shields.io/badge/-@idung_stanley_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IdungStanley)](https://twitter.com/IdungStanley)
+[![Twitter Badge](https://img.shields.io/badge/-@idung_stanley_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IdungStanley)](https://twitter.com/IdungStanley)[![wakatime](https://wakatime.com/badge/user/f2eaf60c-5806-40fa-ba2d-a70b553104b4.svg)](https://wakatime.com/@f2eaf60c-5806-40fa-ba2d-a70b553104b4)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
