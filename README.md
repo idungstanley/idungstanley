@@ -25,13 +25,9 @@ const stanleySunday = {
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
 <!--START_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbanos-mv)](https://github.com/rbanos-mv/github-readme-stats)
 
-```text
-JavaScript   20 hrs 58 mins  ████████████████████████▓   98.96 %
-SCSS         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
+[![Roberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rbanos)](https://github.com/rbanos-mv/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
