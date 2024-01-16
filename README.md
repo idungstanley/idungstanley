@@ -11,9 +11,9 @@
 const stanleySunday = {
   lookingFor: "Frontend web developer",
   😄 pronouns: ["He", "him"],
-  code: [JavaScript, React, Vue, Redux, React-query, Typescript, HTML & CSS, Semantic UI, Bootstrap, 
+  code: [JavaScript, React, Vue, Redux, 'React-query', Typescript, HTML & CSS, Semantic UI, Bootstrap, 
   Tailwind CSS, Material UI, Selenium],
-  💬 askMeAbout: [Sports, Opinions, Science, renovation shows],
+  💬 askMeAbout: [Sports, Opinions, Science, 'renovation shows'],
   challenge: "I am honing my React skills and picking up Node.js",
  ⚡ funFacts: ['I have 3+ years of remote work experience with devs 
   from all over the world, 
