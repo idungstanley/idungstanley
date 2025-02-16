@@ -1,5 +1,5 @@
 <h2> Hi, I'm Stanley (Idung) Sunday! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<p><em>Frontend web developer</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p><em>Frontend developer</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Stanley%20Sunday-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sundaystanley56/)](https://www.linkedin.com/in/sundaystanley56/)
 [![Twitter Badge](https://img.shields.io/badge/-@idung_stanley_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IdungStanley)](https://twitter.com/IdungStanley)[![wakatime](https://wakatime.com/badge/user/909dbd3a-7288-43ba-a40a-85182df68521.svg)](https://wakatime.com/@909dbd3a-7288-43ba-a40a-85182df68521)
@@ -9,15 +9,15 @@
 
 ```javascript
 const stanleySunday = {
-  lookingFor: "Frontend web developer",
+  lookingFor: "Frontend developer",
   😄 pronouns: ["He", "him"],
-  code: [JavaScript, React, Vue, Redux, 'React-query', Typescript, HTML & CSS, Semantic UI, Bootstrap, 
+  code: [JavaScript, React, Nextjs, Redux, 'React-query', Typescript, HTML & CSS, Semantic UI, Bootstrap, 
   Tailwind CSS, Material UI, Selenium],
   💬 askMeAbout: [Sports, Opinions, Science, 'renovation shows'],
   challenge: "I am honing my React skills and picking up Node.js",
- ⚡ funFacts: ['I have 3+ years of remote work experience with devs 
+ ⚡ funFacts: ['I have 6+ years of remote work experience with devs 
   from all over the world, 
-  'I play badminton during my free time.']
+  'I play boxing during my free time.']
 }
 ```
 [![stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=idungstanley)](https://github.com/idungstanley/github-readme-stats)
