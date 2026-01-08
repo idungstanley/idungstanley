@@ -11,70 +11,28 @@ const stanleySunday = {
   lookingFor: "Senior Frontend / Fullstack (Frontend-leaning) Roles",
   pronouns: ["he", "him"],
 
-  code: [
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Redux Toolkit",
-    "React Query / TanStack Query",
-    "Node.js",
-    "HTML",
-    "CSS",
-    "Tailwind CSS",
-    "Material UI",
-    "Semantic UI"
-  ],
+  code: [ JavaScript, TypeScript,React,Next.js, "Redux Toolkit",
+    "React Query / TanStack Query", Node.js, HTML, CSS, "Tailwind CSS",
+    "Material UI","Semantic UI" ],
 
-  architectureAndPatterns: [
-    "Clean Architecture",
-    "Component-driven development",
-    "Reusable & modular UI systems",
-    "Offline-first applications",
-    "SSR / SSG",
-    "Performance optimization"
-  ],
+  architectureAndPatterns: [ "Clean Architecture", "Component-driven development",
+    "Reusable & modular UI systems", "Offline-first applications",
+    "SSR / SSG", "Performance optimization" ],
 
-  backendAndInfra: [
-    "Supabase",
-    "REST APIs",
-    "JWT Authentication",
-    "Docker",
-    "Cloudinary",
-    "Environment-based config"
-  ],
+  backendAndInfra: [ Supabase, "REST APIs", "JWT Authentication",
+    Docker, Cloudinary, "Environment-based config" ],
 
-  testing: [
-    "Jest",
-    "React Testing Library",
-    "Cypress",
-    "Mocha",
-    "TDD"
-  ],
+  testing: [ Jest, React Testing Library, Cypress,
+    Mocha, TDD ],
 
-  tools: [
-    "Git & GitHub",
-    "Vercel",
-    "Docker",
-    "Postman",
-    "CI/CD basics"
-  ],
+  tools: [ "Git & GitHub", Vercel, Docker,Postman, "CI/CD basics" ],
 
-  askMeAbout: [
-    "Frontend architecture",
-    "Scaling React apps",
-    "Performance optimization",
-    "Testing strategies",
-    "Tech startups",
-    "Building products from scratch"
-  ],
+  askMeAbout: [ "Frontend architecture", "Scaling React apps",
+    "Performance optimization", "Testing strategies",
+    "Tech startups", "Building products from scratch" ],
 
-  currentlyLearning: [
-    "Advanced backend patterns",
-    "System design",
-    "GraphQL",
-    "AI-powered products"
-  ],
+  currentlyLearning: [ "Advanced backend patterns", "System design",
+    "GraphQL", "AI-powered products" ],
 
   funFacts: [
     "6+ years of remote work experience with developers across the globe 🌍",
