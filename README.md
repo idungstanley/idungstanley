@@ -8,16 +8,81 @@
 
 ```javascript
 const stanleySunday = {
-  lookingFor: "Frontend developer",
-  😄 pronouns: ["He", "him"],
-  code: [JavaScript, React, Nextjs, Redux, 'React-query', Typescript, HTML & CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS, Material UI, Selenium],
-  💬 askMeAbout: [Sports, Opinions, Science, 'renovation shows'],
-  challenge: "I am honing my React skills and picking up Node.js",
- ⚡ funFacts: ['I have 6+ years of remote work experience with devs 
-  from all over the world, 
-  'I play boxing during my free time.']
-}
+  lookingFor: "Senior Frontend / Fullstack (Frontend-leaning) Roles",
+  pronouns: ["he", "him"],
+
+  code: [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Redux Toolkit",
+    "React Query / TanStack Query",
+    "Node.js",
+    "HTML",
+    "CSS",
+    "Tailwind CSS",
+    "Material UI",
+    "Semantic UI"
+  ],
+
+  architectureAndPatterns: [
+    "Clean Architecture",
+    "Component-driven development",
+    "Reusable & modular UI systems",
+    "Offline-first applications",
+    "SSR / SSG",
+    "Performance optimization"
+  ],
+
+  backendAndInfra: [
+    "Supabase",
+    "REST APIs",
+    "JWT Authentication",
+    "Docker",
+    "Cloudinary",
+    "Environment-based config"
+  ],
+
+  testing: [
+    "Jest",
+    "React Testing Library",
+    "Cypress",
+    "Mocha",
+    "TDD"
+  ],
+
+  tools: [
+    "Git & GitHub",
+    "Vercel",
+    "Docker",
+    "Postman",
+    "CI/CD basics"
+  ],
+
+  askMeAbout: [
+    "Frontend architecture",
+    "Scaling React apps",
+    "Performance optimization",
+    "Testing strategies",
+    "Tech startups",
+    "Building products from scratch"
+  ],
+
+  currentlyLearning: [
+    "Advanced backend patterns",
+    "System design",
+    "GraphQL",
+    "AI-powered products"
+  ],
+
+  funFacts: [
+    "6+ years of remote work experience with developers across the globe 🌍",
+    "I box to stay disciplined and sharp 🥊",
+    "I enjoy building products more than just features"
+  ]
+};
+
 ```
 
 
