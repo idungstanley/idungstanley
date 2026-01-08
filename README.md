@@ -20,33 +20,7 @@ const stanleySunday = {
   'I play boxing during my free time.']
 }
 ```
-[![stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=idungstanley)](https://github.com/idungstanley/github-readme-stats)
-
-### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
-
-<!--START_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idungstanley)](https://github.com/idungstanley/github-readme-stats)
-
-[![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stanley_idung)](https://github.com/idungstanley/github-readme-stats)
-
-<!--END_SECTION:waka-->
 
 
+<p>You can check out my portfolio <a href="https://stanley-sunday.vercel.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
-<p>You can check out my portfolio <a href="https://idungstanley.github.io/portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
-
-<!--
-**idungstanley/idungstanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  Pronouns: ...
--  Fun fact: ...
-<p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
--->
